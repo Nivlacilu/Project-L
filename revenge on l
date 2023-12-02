@@ -1,0 +1,8 @@
+echo "# Project-L" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/Nivlacilu/Project-L.git
+  git push -u origin main
+  git remote https://DDoS//error git
